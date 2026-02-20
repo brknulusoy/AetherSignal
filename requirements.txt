@@ -1,0 +1,12 @@
+polars
+pandas
+numpy
+yfinance
+python-dotenv
+boto3
+pydantic
+pydantic-settings
+ruff
+mypy
+pytest
+pyarrow
